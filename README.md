@@ -24,30 +24,30 @@ Je suis un développeur passionné par la création de solutions digitales innov
 
 ### 🛠️ Stack Technique (💻 Langages) 
 #### ⚙️ Technologies & Frameworks
-🔹 Frontend
+### 🔹 Frontend
 - React
 - TailwindCSS
 - HTML
 - CSS
 - JAVASCRIPT
-🔹 Backend
+### 🔹 Backend
 - Node.js (Express)
 - Laravel (PHP)
 - Django
 - Flask
 - AdonisJS
-🔹 Mobile
+### 🔹 Mobile
 - Flutter (Dart)
-🔹 Base de données
+### 🔹 Base de données
 - MySQL
 - SQL Server
 - Oracle
 - PostgreSql
 - MongoDB
-🔹 Outils & DevOps
+###🔹 Outils & DevOps
 - Git & GitHub
 - Postman
-JSON Server 
+- JSON Server 
 
 ---
 
