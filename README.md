@@ -1,92 +1,102 @@
-# BonsomiManasse
+# 👨‍💻 BonsomiManasse
 
 <h1 align="center">👋 Bonjour, je suis Bonsomi Manassé</h1>
-<h3 align="center">Développeur Full-Stack | Backend - Frontend - Mobile | IA & Vision par Ordinateur</h3>
+<h3 align="center">Développeur Full-Stack | Backend - Frontend - Mobile | IA & Vision par Ordinateur | Data Analyst | Data Scientist</h3>
 
 ---
 
-## 🚀 À propos de moi  
+## 🚀 À propos de moi 
+Développeur passionné, spécialisé dans la conception et le développement de solutions digitales modernes, performantes et évolutives.
+J’interviens sur toute la chaîne de développement : de l’analyse à la mise en production. 
 Je suis un développeur passionné par la création de solutions digitales innovantes :  
 - Développement Web (Frontend & Backend)  
 - Applications mobiles (Flutter)  
-- APIs Node.js / Laravel / Django  
+- APIs Node.js / Laravel (PHP) / Flask / Django / AdonisJs 
 - Projets IA (YOLO, CNN, RL PPO/DDPG)  
 - Modélisation UML & Systèmes d’information  
 
-Actuellement, je travaille sur :  
-- 📚 **KidSmart Kinshasa** — application éducative hors ligne (Python/Tkinter)  
-- 🤖 **Détection QCM avec YOLO + CNN**  
-- 🚦 **Régulation routière via apprentissage par renforcement**  
-- 🏗️ **Clone de X (Twitter) en SPA avec React**  
 
----
 
 ## 🛠️ Stack & Compétences
 
 ### 🔹 Langages  
-`JavaScript` · `Python` · `PHP` · `Dart` · `SQL` · `HTML/CSS`
+`JavaScript` · `Python` · `PHP` · `Dart` · `SQL` · `HTML/CSS`  · `Node.Js`  · `AdonisJs`  · `Laravel (PHP)`  · `React`
 
-### 🔹 Frameworks & Outils  
-- **Frontend :** React, TailwindCSS  
-- **Backend :** Node.js (Express), Laravel, Django  
-- **Mobile :** Flutter  
-- **Base de données :** MySQL, SQLite  
-- **DevOps & Outils :** Git, GitHub, Postman, JSON Server  
+### 🛠️ Stack Technique (💻 Langages) 
+#### ⚙️ Technologies & Frameworks
+🔹 Frontend
+- React
+- TailwindCSS
+- HTML
+- CSS
+- JAVASCRIPT
+🔹 Backend
+- Node.js (Express)
+- Laravel (PHP)
+- Django
+- Flask
+- AdonisJS
+🔹 Mobile
+- Flutter (Dart)
+🔹 Base de données
+- MySQL
+- SQL Server
+- Oracle
+- PostgreSql
+- MongoDB
+🔹 Outils & DevOps
+- Git & GitHub
+- Postman
+JSON Server 
 
 ---
 
-## 📌 Projets Principaux (les plus représentatifs)
+## 🚀 Projets Réalisés 
 
-### ⭐ Clone X (Twitter) – React + JSON Server  
+### ⭐ Clone X (Twitter) –   
 ➡ SPA complète : feed, likes, commentaires, modal réponse  
-➡ Gestion d’état + données API fake  
-🔗 Repo : *à ajouter*
-
----
-
-### ⭐ KidSmart Kinshasa – Application éducative (Python/Tkinter)  
-➡ Application hors ligne pour les enfants 6–16 ans  
-➡ Quiz, leçons, niveaux, scoring  
-🔗 Repo : *à ajouter*
-
----
-
-### ⭐ API Node.js – Gestion utilisateurs  
-➡ CRUD complet + middleware d’authentification  
-➡ Architecture MVC professionnelle  
+➡ Gestion d’état + données API  
 🔗 Repo : *à ajouter*
 
 ---
 
 ### ⭐ YOLO QCM Detection  
 ➡ Détection automatique des cases noircies  
-➡ Extraction du matricule manuscrit + CNN (MNIST)  
+➡ Extraction du matricule manuscrit + CNN (MNIST)
 🔗 Repo : *à ajouter*
 
 ---
 
 ### ⭐ Régulation Trafic – RL PPO/DDPG  
 ➡ Modélisation Smart Traffic avec Reinforcement Learning  
-➡ Intégration YOLO pour la vision  
+➡ Intégration YOLO pour la vision
+➡ Simulation de trafic intelligent
+➡ Optimisation dynamique des feux
 🔗 Repo : *à ajouter*
 
 ---
 
 ## 📊 Statistiques GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BonsomiManasse&show_icons=true&theme=default" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BonsomiManasse&layout=compact" height="160" />
-</p>
 
 ---
 
 ## 📫 Me contacter
 
-- **Email :** bonsomimanasse@gmail.com  
-- **LinkedIn :** *à ajouter*  
-- **WhatsApp :** +243 …  
-- **GitHub :** https://github.com/BonsomiManasse  
+- **📧 Email :** manassebonsomi.bmm@gmail.com@gmail.com
+- **💼 LinkedIn :** *à ajouter*  
+- **📱 WhatsApp : ** +243 …  
+- **💻 GitHub :** https://github.com/manassebonsomi  
+
+---
+
+## Collaboration
+Ouvert aux opportunités :
+
+- Projets freelance
+- Collaboration technique
+- Développement de solutions digitales
+- Projets IA & innovation
 
 ---
 
