@@ -83,9 +83,9 @@ Je suis un développeur passionné par la création de solutions digitales innov
 
 ## 📫 Me contacter
 
-- **📧 Email :** manassebonsomi.bmm@gmail.com@gmail.com
+- **📧 Email :** manassebonsomi.bmm@gmail.com
 - **💼 LinkedIn :** *à ajouter*  
-- **📱 WhatsApp : ** +243 …  
+- **📱 WhatsApp : ** +243 839 898 833 
 - **💻 GitHub :** https://github.com/manassebonsomi  
 
 ---
