@@ -44,7 +44,7 @@ Je suis un développeur passionné par la création de solutions digitales innov
 - Oracle
 - PostgreSql
 - MongoDB
-###🔹 Outils & DevOps
+### 🔹 Outils & DevOps
 - Git & GitHub
 - Postman
 - JSON Server 
