@@ -53,26 +53,95 @@ Je suis un développeur passionné par la création de solutions digitales innov
 
 ## 🚀 Projets Réalisés 
 
-### ⭐ Clone X (Twitter) –   
-➡ SPA complète : feed, likes, commentaires, modal réponse  
-➡ Gestion d’état + données API  
-🔗 Repo : *à ajouter*
+### 🌐 Web & Full-Stack
+
+- ⭐ **Clone X (Twitter)**  
+  ➡ Feed, likes, commentaires, interactions  
+  ➡ SPA avec gestion d’état + API REST  
+  🔗 Repo : https://github.com/manassebonsomi/clone-x
+
+- ⭐ **Système de gestion universitaire (PHP/MySQL)**  
+  ➡ Gestion étudiants, professeurs, paiements  
+  ➡ CRUD complet + relations SQL + POO PHP  
+  🔗 Repo : https://github.com/manassebonsomi/university-management
+
+- ⭐ **ACCEIRE – Réseau social**  
+  ➡ Plateforme sociale en développement  
+  ➡ Posts, interactions, backend API  
+  🔗 Repo : https://github.com/manassebonsomi/acceire
+
+- ⭐ **Site Web Restaurant (WordPress / Elementor)**  
+  ➡ Site e-commerce moderne pour restaurant  
+  ➡ Menu digital + commandes en ligne  
+  🔗 Repo : https://github.com/manassebonsomi/restaurant-site
 
 ---
 
-### ⭐ YOLO QCM Detection  
-➡ Détection automatique des cases noircies  
-➡ Extraction du matricule manuscrit + CNN (MNIST)
-🔗 Repo : *à ajouter*
+### 🤖 Intelligence Artificielle & Machine Learning
+
+- ⭐ **YOLO QCM Detection System**  
+  ➡ Détection automatique des cases noircies  
+  ➡ Lecture matricule + CNN (MNIST)  
+  🔗 Repo : https://github.com/manassebonsomi/yolo-qcm-detection
+
+- ⭐ **Régulation de trafic intelligent (RL PPO/DDPG)**  
+  ➡ YOLO pour détection des véhicules
+  ➡ Modélisation Smart Traffic avec Reinforcement Learning  
+  ➡ Intégration YOLO pour la vision
+  ➡ Simulation de trafic intelligent
+  ➡ Optimisation dynamique des feux
+  🔗 Repo : https://github.com/manassebonsomi/traffic-rl-system
+
+- ⭐ **Chatbot Hôtel (Transformers GPT)**  
+  ➡ Chatbot intelligent entraîné sur dataset  
+  ➡ API Flask intégrée  
+  🔗 Repo : https://github.com/manassebonsomi/hotel-chatbot
 
 ---
 
-### ⭐ Régulation Trafic – RL PPO/DDPG  
-➡ Modélisation Smart Traffic avec Reinforcement Learning  
-➡ Intégration YOLO pour la vision
-➡ Simulation de trafic intelligent
-➡ Optimisation dynamique des feux
-🔗 Repo : *à ajouter*
+### 📱 Mobile
+
+- ⭐ **KidSmart Kinshasa (Application éducative)**  
+  ➡ Application offline pour enfants (6–16 ans)  
+  ➡ Modules éducatifs interactifs  
+  🔗 Repo : https://github.com/manassebonsomi/kidsmart-kinshasa
+
+- ⭐ **App Flutter + API Backend**  
+  ➡ Authentification + consommation API  
+  🔗 Repo : https://github.com/manassebonsomi/flutter-api-app
+
+---
+
+### ⚙️ Backend & APIs
+
+- ⭐ **API Node.js – Gestion de fichiers**  
+  ➡ CRUD + gestion système fichiers  
+  🔗 Repo : https://github.com/manassebonsomi/node-file-api
+
+- ⭐ **API Django Auth System**  
+  ➡ Authentification (Login/Register)  
+  ➡ MySQL + Django  
+  🔗 Repo : https://github.com/manassebonsomi/django-auth-system
+
+- ⭐ **API Laravel Auth System**  
+  ➡ Système d’authentification complet  
+  ➡ Laravel + MySQL  
+  🔗 Repo : https://github.com/manassebonsomi/laravel-auth-system
+
+---
+
+### 🧠 Data & Systèmes
+
+- ⭐ **Système d’information hospitalier**  
+  ➡ Gestion transfert d’informations entre hôpitaux  
+  ➡ Modélisation système complexe  
+  🔗 Repo : https://github.com/manassebonsomi/hospital-system
+
+- ⭐ **Projets Data Science & ML**  
+  ➡ Analyse de données + modèles ML  
+  🔗 Repo : https://github.com/manassebonsomi/data-science-projects
+
+---
 
 ---
 
@@ -84,8 +153,8 @@ Je suis un développeur passionné par la création de solutions digitales innov
 ## 📫 Me contacter
 
 - **📧 Email :** manassebonsomi.bmm@gmail.com
-- **💼 LinkedIn :** *à ajouter*  
-- **📱 WhatsApp : ** +243 839 898 833 
+- **💼 LinkedIn :** https://www.linkedin.com/in/manassé-bonsomi-605854249  
+- **📱 WhatsApp : ** +243 825 568 355 
 - **💻 GitHub :** https://github.com/manassebonsomi  
 
 ---
